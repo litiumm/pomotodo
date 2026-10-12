@@ -1,0 +1,15 @@
+{
+  "KPlugin": {
+    "Id": "org.adi.pomotodo",
+    "Name": "PomoTodo",
+    "Description": "Current todo + pomodoro timer",
+    "Icon": "chronometer",
+    "Category": "Utilities",
+    "Version": "0.1",
+    "License": "GPL",
+    "ServiceTypes": ["Plasma/Applet"]
+  },
+  "X-Plasma-API": "declarativeappletscript",
+  "X-Plasma-MainScript": "ui/main.qml",
+  "KPackageStructure": "Plasma/Applet"
+}
